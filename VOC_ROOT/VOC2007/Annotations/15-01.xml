@@ -1,0 +1,37 @@
+<annotation>
+    <folder>JPEGImages</folder>
+    <filename>15-01.jpg</filename>
+    <path>/media/preeth/Data/prajna_files/bounding-box-augmentation-master/JPEGImages/15-01.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>665</width>
+        <height>1000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>washing hand</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>99</xmin>
+            <ymin>536</ymin>
+            <xmax>428</xmax>
+            <ymax>723</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>washing hand</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>162</xmin>
+            <ymin>457</ymin>
+            <xmax>334</xmax>
+            <ymax>527</ymax>
+        </bndbox>
+    </object>
+</annotation>
